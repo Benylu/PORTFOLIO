@@ -1,0 +1,364 @@
+.All{
+    background-color: rgba(142, 216, 245, 0);
+    width: 700px;
+    height: 900px;
+}
+.Header{
+    display: block;
+    background-color: rgb(206, 205, 205);
+    width: 680px;
+    height: 115px;
+    margin-bottom: -63px;
+}
+#name{
+    display: inline-block;
+    font-family: fantasy;
+    font-size: 24px;
+    color: black;
+    margin-left: 23px;
+    margin-bottom: 10px;
+    margin-top: 13px;
+}
+#Headerright{
+    display: inline-block;
+    vertical-align: right;
+    margin-left: 269px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: black;
+}
+.Top{
+    display: block;
+    margin-bottom: -21px;
+    margin-top: -30px;
+}
+#Portrait1{
+    width: 265px;
+    height: 181px;
+    border: rgb(170, 171, 172);
+    border-style: solid;
+    border-width: 4px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Aboutbox{
+    background-color: rgb(180, 177, 177);
+    display: inline-block;
+    width: 331px;
+    height: 195px;
+    vertical-align:top;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.Abouttextbox{
+    background-color: rgb(180, 177, 177);
+    background-image:  linear-gradient(rgb(121, 118, 118),rgb(160, 156, 156),rgb(104, 100, 100));
+    width: 331px;
+    height: 30px;
+}
+#Abouttext{
+    width: 331px;
+    height: 30px;
+    vertical-align: initial;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-left: 12px;
+    margin-bottom: -16px;
+    margin-top: 5px;
+    color: white;
+}
+
+#Pabout{
+    background-color:rgb(180, 177, 177);
+    width: 311px;
+    height:153px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+    margin-top: 12px;
+    margin-left: 10px;
+    padding-right: 10px;
+}
+
+
+.Middle{
+    background-color: rgb(83, 54, 90);
+    display: block;
+    margin-top: -10px;
+    width: 680px;
+    height: 752px;
+    background-image: linear-gradient(rgb(70, 41, 70),rgb(54, 51, 51));
+}
+.Threeboxes{
+    width: 1200px;
+    height: 700px;
+    display: inline-block;
+    margin-top: -17px;   
+}
+
+
+#Leftbox{
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(rgb(71, 57, 71),rgb(196, 190, 190),rgb(143, 113, 143));
+    width: 200px;
+    height: 420px;
+    margin-left: 21px;
+    margin-top: 57px;
+}
+#midtitle1{
+    margin-left: 0px;
+    margin-top: -39px;
+    width: 194px;
+    height: 40px;
+    padding-left: 6px;
+    padding-top: 10px;
+}
+#Midimg1{
+    width: 200px;
+    height: 130px;
+    display: inline-block;
+    margin-top: -30px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+#Midp1{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom:0px;
+    font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+}
+.technologies1{
+    width: 50px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+
+#centerbox{
+    display: inline-block;
+    background-image: linear-gradient(rgb(71, 57, 71),rgb(196, 190, 190),rgb(143, 113, 143));
+    vertical-align: top;
+    width: 200px;
+    height: 448px;
+    margin-left: 13px;
+    margin-top: 29px;
+}
+#midtitle2{
+    margin-left: 0px;
+    margin-top: -10px;
+    width: 194px;
+    height: 39px;
+    padding-left: 6px;
+    padding-top: 10px;
+}
+#Midimg2{
+    width: 200px;
+    height: 130px;
+    display: inline-block;
+    margin-top: -31px;
+}
+#Midp2{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+}
+.technologies2{
+    width: 50px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+
+#Rightbox{
+    display: inline-block;
+    background-image: linear-gradient(rgb(71, 57, 71),rgb(196, 190, 190),rgb(143, 113, 143));
+    vertical-align: top;
+    width: 200px;
+    height: 457px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#midtitle3{
+    margin-left: 0px;
+    margin-top: -1px;
+    width: 194px;
+    height: 39px;
+    padding-left: 6px;
+    padding-top: 10px;
+}
+#Midimg3{
+    width: 200px;
+    height: 130px;
+    display: inline-block;
+    margin-top: -31px;
+}
+#Midp3{
+    margin-left: 10px;
+    margin-top: 11px;
+    font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+}
+.technologies3{
+    width: 50px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+
+.H2s{
+    background-image:  linear-gradient(rgb(121, 118, 118),rgb(160, 156, 156),rgb(104, 100, 100));
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+.Midp{
+    width: 171px;
+    height: 100px;
+    display: inline-block;
+    margin-top: 30px;
+    color: white;
+}
+.Logogroup{
+    width: 187px;
+    height: 20px;
+    display: inline-block;
+    margin-left: 8px;
+}
+.Logos{
+    width: 27px;
+    height: 27px;
+    display: inline-block;
+    vertical-align: center;
+}
+.Button1{
+    margin-left: 72px;
+    margin-top: 14px;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(10, 71, 10);
+    border-radius: 5px;
+    color: white;
+}
+.Button2{
+    margin-left: 57px;
+    margin-top: 14px;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(10, 71, 10);
+    border-radius: 5px;
+    color: white;
+}
+.Button3{
+    margin-left: 67px;
+    margin-top: 14px;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(10, 71, 10);
+    border-radius: 5px;
+    color: white;
+}
+
+
+.Socialmedia{
+    background-color: rgb(218, 214, 214);
+    display: inline-block;
+    width: 680px;
+    height: 68px;
+    margin-top: -47px;
+}
+.SMLogos{
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    margin-left: 5px;
+}
+#SMtoptext{
+    margin-left: 242px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.SMgroup{
+    margin-left: 95px;
+}
+.Blink{
+    display: inline-block;
+    margin-left: 1px;
+    margin-bottom: 1px;
+    margin-top: -20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+#Cat{
+    margin-left: 100px;
+}
+#linkedin{
+    margin-left: 10px;
+}
+#Tweeter{
+    margin-left: 10px;
+}
+#Cube{
+    margin-left: 10px;
+}
+
+#h3{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    color: mintcream;
+}
+#Techtitle1{
+    background-image: linear-gradient(rgb(121, 118, 118),rgb(160, 156, 156),rgb(104, 100, 100));
+    width: 200px;
+    font-size: 14px;
+    width: auto;
+    height: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 0px;
+    margin-top: 20px;
+
+}
+#Techtitle2{
+    background-image: linear-gradient(rgb(121, 118, 118),rgb(160, 156, 156),rgb(104, 100, 100));
+    width: 200px;
+    font-size: 14px;
+    width: auto;
+    height: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 0px;
+    margin-top: 14px;
+}
+#Techtitle3{
+    background-image: linear-gradient(rgb(121, 118, 118),rgb(160, 156, 156),rgb(104, 100, 100));
+    font-size: 14px;
+    width: auto;
+    height: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 4px;
+    margin-left: 0px;
+}
+
+
